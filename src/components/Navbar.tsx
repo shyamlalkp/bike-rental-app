@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 export const Navbar = () => {
   return (
-    <nav className="sticky top-0 z-10 bg-blue-900 backdrop-filter backdrop-blur-lg bg-opacity-45">
+    <nav className="sticky top-0 z-10 bg-blue-800 backdrop-filter backdrop-blur-lg bg-opacity-45">
       <div className="max-w-5xl mx-auto px-4">
         <div className="flex items-center justify-between h-10">
           <span className="text-2xl text-gray-900 font-semibold">Rebike</span>
