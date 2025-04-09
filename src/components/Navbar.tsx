@@ -26,7 +26,7 @@ export const Navbar = () => {
               Book-Now
             </Link>
             <Link
-              className="font-mono hover:font-semibold hover:text-blue-700 hover:underline"
+              className="font-mono hover:font-semibold hover:text-blue-600 hover:underline"
               to={"/login"}
             >
               Login
